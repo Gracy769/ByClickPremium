@@ -1,0 +1,7 @@
+Install Note:
+0. Install Byclickdownloader from official website "" www.byclickdownloader.com ""
+1. Disconnect internet
+2. Install program
+3. Use patch to register the software
+4. Do not forget to block program in firewall
+5. enjoy
